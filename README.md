@@ -20,5 +20,6 @@ Traditional End Game
 ![image](https://user-images.githubusercontent.com/77389522/172305655-e991ab8a-a823-40f6-8d79-c599bc2ed4ad.png)
 
 Evil End Game
+
 ![image](https://user-images.githubusercontent.com/77389522/172305933-ebe91b03-9306-46e0-87eb-da86bcf00427.png)
 
