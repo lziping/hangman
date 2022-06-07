@@ -78,7 +78,7 @@ public class HangmanGame {
 						if (hangman.gameOver()) {
 							this.printRound(hangman, "Well Done!");
 							
-							System.out.println("Total gyesses : "+hangman.guessCount);
+							System.out.println("Total guesses : "+hangman.guessCount);
 
 								
 								System.out.println("Total Incorrect guesses :"+hangman.incorrectGuesses.size());
