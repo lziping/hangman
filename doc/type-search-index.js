@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"dictionary","l":"Dictionary"},{"p":"hangman","l":"Hangman"},{"p":"hangman","l":"HangmanEvil"},{"p":"hangman","l":"HangmanEvilTest"},{"p":"<Unnamed>","l":"HangmanGame"},{"p":"hangman","l":"HangmanTraditional"},{"p":"hangman","l":"HangmanTraditionalTest"}];updateSearchResults();
