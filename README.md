@@ -17,6 +17,7 @@ The word will change base on what player have correctly guessed, and change to o
 Version will be randomly select at game start.
 
 Traditional End Game
+
 ![image](https://user-images.githubusercontent.com/77389522/172305655-e991ab8a-a823-40f6-8d79-c599bc2ed4ad.png)
 
 Evil End Game
