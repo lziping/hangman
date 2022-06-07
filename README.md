@@ -2,7 +2,7 @@
 
 To run on local : Run HangManGame.Java
 
-This is a word guess game with 2 version
+This is a word guessing game with 2 version
 The tradition (easy) version will set a word that will not change during the game for player to guess
 
 ![image](https://user-images.githubusercontent.com/77389522/172305010-09c1da42-500a-42b9-9388-b6a66dade961.png)
